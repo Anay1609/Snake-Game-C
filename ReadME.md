@@ -21,10 +21,6 @@ This is a classic Snake Game written in C using console graphics (Windows-specif
 - **P** - Pause/Resume
 - **Q** - Quit
 
-## 📷 Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-
 ## 🔧 How to Run
 Compile with GCC:
 ```bash
